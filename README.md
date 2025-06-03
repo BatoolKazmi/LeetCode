@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/BatoolKazmi/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0907-koko-eating-bananas](https://github.com/BatoolKazmi/LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/BatoolKazmi/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0907-koko-eating-bananas](https://github.com/BatoolKazmi/LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
