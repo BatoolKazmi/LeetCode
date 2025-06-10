@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/BatoolKazmi/LeetCode/tree/master/0146-lru-cache) |
+| [0424-longest-repeating-character-replacement](https://github.com/BatoolKazmi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1023-time-based-key-value-store](https://github.com/BatoolKazmi/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Design
 |  |
@@ -54,5 +55,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/BatoolKazmi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1023-time-based-key-value-store](https://github.com/BatoolKazmi/LeetCode/tree/master/1023-time-based-key-value-store) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/BatoolKazmi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
