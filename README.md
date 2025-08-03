@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/BatoolKazmi/LeetCode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/BatoolKazmi/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/BatoolKazmi/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0424-longest-repeating-character-replacement](https://github.com/BatoolKazmi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/BatoolKazmi/LeetCode/tree/master/0567-permutation-in-string) |
@@ -180,8 +181,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/BatoolKazmi/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/BatoolKazmi/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/BatoolKazmi/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/BatoolKazmi/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/BatoolKazmi/LeetCode/tree/master/0079-word-search) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/BatoolKazmi/LeetCode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
