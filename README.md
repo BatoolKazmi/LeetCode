@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/BatoolKazmi/LeetCode/tree/master/0002-add-two-numbers) |
+| [1014-k-closest-points-to-origin](https://github.com/BatoolKazmi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Recursion
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BatoolKazmi/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/BatoolKazmi/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0907-koko-eating-bananas](https://github.com/BatoolKazmi/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1014-k-closest-points-to-origin](https://github.com/BatoolKazmi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/BatoolKazmi/LeetCode/tree/master/1127-last-stone-weight) |
 ## Two Pointers
 |  |
@@ -161,10 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/BatoolKazmi/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1014-k-closest-points-to-origin](https://github.com/BatoolKazmi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/BatoolKazmi/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/BatoolKazmi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/BatoolKazmi/LeetCode/tree/master/1127-last-stone-weight) |
 ## Data Stream
 |  |
@@ -193,4 +197,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/BatoolKazmi/LeetCode/tree/master/0131-palindrome-partitioning) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/BatoolKazmi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Sorting
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/BatoolKazmi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/BatoolKazmi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
