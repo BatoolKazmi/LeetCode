@@ -6,6 +6,5 @@ class Solution:
             if maxCount == 0:
                 res = n 
             maxCount += (1 if res == n else -1)
-            print("res: ", res, ", count:", maxCount)
 
         return res
