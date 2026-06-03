@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/BatoolKazmi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/BatoolKazmi/LeetCode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/BatoolKazmi/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/BatoolKazmi/LeetCode/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BatoolKazmi/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/BatoolKazmi/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/BatoolKazmi/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/BatoolKazmi/LeetCode/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/BatoolKazmi/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/BatoolKazmi/LeetCode/tree/master/0392-is-subsequence) |
 ## Geometry
