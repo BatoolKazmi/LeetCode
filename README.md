@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/BatoolKazmi/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1023-time-based-key-value-store](https://github.com/BatoolKazmi/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1768-merge-strings-alternately](https://github.com/BatoolKazmi/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [3110-score-of-a-string](https://github.com/BatoolKazmi/LeetCode/tree/master/3110-score-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
