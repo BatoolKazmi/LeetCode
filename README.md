@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/BatoolKazmi/LeetCode/tree/master/1127-last-stone-weight) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/BatoolKazmi/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1929-concatenation-of-array](https://github.com/BatoolKazmi/LeetCode/tree/master/1929-concatenation-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BatoolKazmi/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2678-number-of-senior-citizens](https://github.com/BatoolKazmi/LeetCode/tree/master/2678-number-of-senior-citizens) |
 ## Two Pointers
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/BatoolKazmi/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/BatoolKazmi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/BatoolKazmi/LeetCode/tree/master/0567-permutation-in-string) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BatoolKazmi/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/BatoolKazmi/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Tree
 |  |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/BatoolKazmi/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/BatoolKazmi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1014-k-closest-points-to-origin](https://github.com/BatoolKazmi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BatoolKazmi/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Quickselect
 |  |
 | ------- |
