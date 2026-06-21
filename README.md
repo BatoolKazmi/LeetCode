@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/BatoolKazmi/LeetCode/tree/master/0682-baseball-game) |
 | [0905-sort-array-by-parity](https://github.com/BatoolKazmi/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0907-koko-eating-bananas](https://github.com/BatoolKazmi/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0929-unique-email-addresses](https://github.com/BatoolKazmi/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0977-squares-of-a-sorted-array](https://github.com/BatoolKazmi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1014-k-closest-points-to-origin](https://github.com/BatoolKazmi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1052-grumpy-bookstore-owner](https://github.com/BatoolKazmi/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/BatoolKazmi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/BatoolKazmi/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/BatoolKazmi/LeetCode/tree/master/0621-task-scheduler) |
+| [0929-unique-email-addresses](https://github.com/BatoolKazmi/LeetCode/tree/master/0929-unique-email-addresses) |
 | [1023-time-based-key-value-store](https://github.com/BatoolKazmi/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Design
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/BatoolKazmi/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/BatoolKazmi/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/BatoolKazmi/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0929-unique-email-addresses](https://github.com/BatoolKazmi/LeetCode/tree/master/0929-unique-email-addresses) |
 | [1023-time-based-key-value-store](https://github.com/BatoolKazmi/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1408-string-matching-in-an-array](https://github.com/BatoolKazmi/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1768-merge-strings-alternately](https://github.com/BatoolKazmi/LeetCode/tree/master/1768-merge-strings-alternately) |
