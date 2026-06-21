@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/BatoolKazmi/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/BatoolKazmi/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/BatoolKazmi/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/BatoolKazmi/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/BatoolKazmi/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/BatoolKazmi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/BatoolKazmi/LeetCode/tree/master/0567-permutation-in-string) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/BatoolKazmi/LeetCode/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/BatoolKazmi/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/BatoolKazmi/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0205-isomorphic-strings](https://github.com/BatoolKazmi/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/BatoolKazmi/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0344-reverse-string](https://github.com/BatoolKazmi/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/BatoolKazmi/LeetCode/tree/master/0392-is-subsequence) |
