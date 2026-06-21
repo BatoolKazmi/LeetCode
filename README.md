@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/BatoolKazmi/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/BatoolKazmi/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/BatoolKazmi/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/BatoolKazmi/LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/BatoolKazmi/LeetCode/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/BatoolKazmi/LeetCode/tree/master/0682-baseball-game) |
 | [0905-sort-array-by-parity](https://github.com/BatoolKazmi/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/BatoolKazmi/LeetCode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/BatoolKazmi/LeetCode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/BatoolKazmi/LeetCode/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/BatoolKazmi/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Counting
