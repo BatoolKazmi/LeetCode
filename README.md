@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BatoolKazmi/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/BatoolKazmi/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/BatoolKazmi/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/BatoolKazmi/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0907-koko-eating-bananas](https://github.com/BatoolKazmi/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/BatoolKazmi/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Bit Manipulation
@@ -330,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/BatoolKazmi/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/BatoolKazmi/LeetCode/tree/master/0735-asteroid-collision) |
 | [1598-crawler-log-folder](https://github.com/BatoolKazmi/LeetCode/tree/master/1598-crawler-log-folder) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/BatoolKazmi/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
