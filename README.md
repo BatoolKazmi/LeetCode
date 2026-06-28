@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/BatoolKazmi/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/BatoolKazmi/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1408-string-matching-in-an-array](https://github.com/BatoolKazmi/LeetCode/tree/master/1408-string-matching-in-an-array) |
+| [1598-crawler-log-folder](https://github.com/BatoolKazmi/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1929-concatenation-of-array](https://github.com/BatoolKazmi/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BatoolKazmi/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2678-number-of-senior-citizens](https://github.com/BatoolKazmi/LeetCode/tree/master/2678-number-of-senior-citizens) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/BatoolKazmi/LeetCode/tree/master/0929-unique-email-addresses) |
 | [1023-time-based-key-value-store](https://github.com/BatoolKazmi/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1408-string-matching-in-an-array](https://github.com/BatoolKazmi/LeetCode/tree/master/1408-string-matching-in-an-array) |
+| [1598-crawler-log-folder](https://github.com/BatoolKazmi/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/BatoolKazmi/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/BatoolKazmi/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2678-number-of-senior-citizens](https://github.com/BatoolKazmi/LeetCode/tree/master/2678-number-of-senior-citizens) |
@@ -322,4 +324,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/BatoolKazmi/LeetCode/tree/master/0682-baseball-game) |
+| [1598-crawler-log-folder](https://github.com/BatoolKazmi/LeetCode/tree/master/1598-crawler-log-folder) |
 <!---LeetCode Topics End-->
