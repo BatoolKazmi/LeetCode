@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/BatoolKazmi/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1408-string-matching-in-an-array](https://github.com/BatoolKazmi/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1598-crawler-log-folder](https://github.com/BatoolKazmi/LeetCode/tree/master/1598-crawler-log-folder) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/BatoolKazmi/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/BatoolKazmi/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BatoolKazmi/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2678-number-of-senior-citizens](https://github.com/BatoolKazmi/LeetCode/tree/master/2678-number-of-senior-citizens) |
