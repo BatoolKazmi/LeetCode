@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/BatoolKazmi/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/BatoolKazmi/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BatoolKazmi/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/BatoolKazmi/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/BatoolKazmi/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/BatoolKazmi/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Two Pointers
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/BatoolKazmi/LeetCode/tree/master/0621-task-scheduler) |
 | [0929-unique-email-addresses](https://github.com/BatoolKazmi/LeetCode/tree/master/0929-unique-email-addresses) |
 | [1023-time-based-key-value-store](https://github.com/BatoolKazmi/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/BatoolKazmi/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/BatoolKazmi/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Design
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/BatoolKazmi/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1598-crawler-log-folder](https://github.com/BatoolKazmi/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/BatoolKazmi/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/BatoolKazmi/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/BatoolKazmi/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2678-number-of-senior-citizens](https://github.com/BatoolKazmi/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/BatoolKazmi/LeetCode/tree/master/3110-score-of-a-string) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/BatoolKazmi/LeetCode/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/BatoolKazmi/LeetCode/tree/master/0621-task-scheduler) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/BatoolKazmi/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/BatoolKazmi/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Simulation
 |  |
