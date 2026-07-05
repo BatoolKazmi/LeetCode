@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/BatoolKazmi/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0977-squares-of-a-sorted-array](https://github.com/BatoolKazmi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1014-k-closest-points-to-origin](https://github.com/BatoolKazmi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1051-height-checker](https://github.com/BatoolKazmi/LeetCode/tree/master/1051-height-checker) |
 | [1052-grumpy-bookstore-owner](https://github.com/BatoolKazmi/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1127-last-stone-weight](https://github.com/BatoolKazmi/LeetCode/tree/master/1127-last-stone-weight) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/BatoolKazmi/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/BatoolKazmi/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/BatoolKazmi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1014-k-closest-points-to-origin](https://github.com/BatoolKazmi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1051-height-checker](https://github.com/BatoolKazmi/LeetCode/tree/master/1051-height-checker) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BatoolKazmi/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Quickselect
 |  |
@@ -353,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/BatoolKazmi/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/BatoolKazmi/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
