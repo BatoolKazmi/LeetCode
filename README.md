@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/BatoolKazmi/LeetCode/tree/master/0002-add-two-numbers) |
 | [0146-lru-cache](https://github.com/BatoolKazmi/LeetCode/tree/master/0146-lru-cache) |
+| [0203-remove-linked-list-elements](https://github.com/BatoolKazmi/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/BatoolKazmi/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/BatoolKazmi/LeetCode/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/BatoolKazmi/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/BatoolKazmi/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
