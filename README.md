@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/BatoolKazmi/LeetCode/tree/master/0002-add-two-numbers) |
 | [0146-lru-cache](https://github.com/BatoolKazmi/LeetCode/tree/master/0146-lru-cache) |
+| [0234-palindrome-linked-list](https://github.com/BatoolKazmi/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/BatoolKazmi/LeetCode/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/BatoolKazmi/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BatoolKazmi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BatoolKazmi/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/BatoolKazmi/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/BatoolKazmi/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/BatoolKazmi/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/BatoolKazmi/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/BatoolKazmi/LeetCode/tree/master/0344-reverse-string) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/BatoolKazmi/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/BatoolKazmi/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/BatoolKazmi/LeetCode/tree/master/0735-asteroid-collision) |
 | [1598-crawler-log-folder](https://github.com/BatoolKazmi/LeetCode/tree/master/1598-crawler-log-folder) |
