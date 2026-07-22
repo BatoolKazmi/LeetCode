@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/BatoolKazmi/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/BatoolKazmi/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/BatoolKazmi/LeetCode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/BatoolKazmi/LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/BatoolKazmi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BatoolKazmi/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/BatoolKazmi/LeetCode/tree/master/0567-permutation-in-string) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/BatoolKazmi/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0290-word-pattern](https://github.com/BatoolKazmi/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/BatoolKazmi/LeetCode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/BatoolKazmi/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/BatoolKazmi/LeetCode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/BatoolKazmi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/BatoolKazmi/LeetCode/tree/master/0443-string-compression) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/BatoolKazmi/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/BatoolKazmi/LeetCode/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/BatoolKazmi/LeetCode/tree/master/0621-task-scheduler) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/BatoolKazmi/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/BatoolKazmi/LeetCode/tree/master/1189-maximum-number-of-balloons) |
