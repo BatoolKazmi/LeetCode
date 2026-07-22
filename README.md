@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/BatoolKazmi/LeetCode/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/BatoolKazmi/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/BatoolKazmi/LeetCode/tree/master/0735-asteroid-collision) |
+| [0896-monotonic-array](https://github.com/BatoolKazmi/LeetCode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/BatoolKazmi/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0907-koko-eating-bananas](https://github.com/BatoolKazmi/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0929-unique-email-addresses](https://github.com/BatoolKazmi/LeetCode/tree/master/0929-unique-email-addresses) |
