@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/BatoolKazmi/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/BatoolKazmi/LeetCode/tree/master/0441-arranging-coins) |
 | [1014-k-closest-points-to-origin](https://github.com/BatoolKazmi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1512-number-of-good-pairs](https://github.com/BatoolKazmi/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/BatoolKazmi/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/BatoolKazmi/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/BatoolKazmi/LeetCode/tree/master/1408-string-matching-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/BatoolKazmi/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1598-crawler-log-folder](https://github.com/BatoolKazmi/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/BatoolKazmi/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/BatoolKazmi/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/BatoolKazmi/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1189-maximum-number-of-balloons](https://github.com/BatoolKazmi/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/BatoolKazmi/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/BatoolKazmi/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/BatoolKazmi/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/BatoolKazmi/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/BatoolKazmi/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/BatoolKazmi/LeetCode/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/BatoolKazmi/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/BatoolKazmi/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/BatoolKazmi/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/BatoolKazmi/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/BatoolKazmi/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/BatoolKazmi/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
