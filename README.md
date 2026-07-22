@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/BatoolKazmi/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1598-crawler-log-folder](https://github.com/BatoolKazmi/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/BatoolKazmi/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/BatoolKazmi/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/BatoolKazmi/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BatoolKazmi/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/BatoolKazmi/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/BatoolKazmi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1014-k-closest-points-to-origin](https://github.com/BatoolKazmi/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1051-height-checker](https://github.com/BatoolKazmi/LeetCode/tree/master/1051-height-checker) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/BatoolKazmi/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BatoolKazmi/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Quickselect
 |  |
