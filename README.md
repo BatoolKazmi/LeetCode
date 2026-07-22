@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/BatoolKazmi/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/BatoolKazmi/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/BatoolKazmi/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3151-special-array-i](https://github.com/BatoolKazmi/LeetCode/tree/master/3151-special-array-i) |
 ## Two Pointers
 |  |
 | ------- |
