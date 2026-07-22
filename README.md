@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/BatoolKazmi/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BatoolKazmi/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/BatoolKazmi/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/BatoolKazmi/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2678-number-of-senior-citizens](https://github.com/BatoolKazmi/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/BatoolKazmi/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3151-special-array-i](https://github.com/BatoolKazmi/LeetCode/tree/master/3151-special-array-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/BatoolKazmi/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/BatoolKazmi/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/BatoolKazmi/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [2206-divide-array-into-equal-pairs](https://github.com/BatoolKazmi/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/BatoolKazmi/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/BatoolKazmi/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/BatoolKazmi/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/BatoolKazmi/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/BatoolKazmi/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Design
 |  |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/BatoolKazmi/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/BatoolKazmi/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/BatoolKazmi/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/BatoolKazmi/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/BatoolKazmi/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Simulation
 |  |
