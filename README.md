@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/BatoolKazmi/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/BatoolKazmi/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1408-string-matching-in-an-array](https://github.com/BatoolKazmi/LeetCode/tree/master/1408-string-matching-in-an-array) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/BatoolKazmi/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1598-crawler-log-folder](https://github.com/BatoolKazmi/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/BatoolKazmi/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/BatoolKazmi/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/BatoolKazmi/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/BatoolKazmi/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Stack
 |  |
 | ------- |
