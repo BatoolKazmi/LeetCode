@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/BatoolKazmi/LeetCode/tree/master/1496-path-crossing) |
 | [1598-crawler-log-folder](https://github.com/BatoolKazmi/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/BatoolKazmi/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/BatoolKazmi/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/BatoolKazmi/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/BatoolKazmi/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/BatoolKazmi/LeetCode/tree/master/2264-largest-3-same-digit-number-in-string) |
